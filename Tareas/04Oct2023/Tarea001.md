@@ -32,11 +32,11 @@ Es un marco JavaScript progresivo de código abierto para crear interfaces de us
 Es una plataforma que permite y hace más sencilla la creación y el uso de APIs. Esta herramienta es muy útil para programar porque da la posibilidad hacer pruebas y comprobar el correcto funcionamiento de los proyectos que realizan los desarrolladores web
 ## Utilerías linux 
 Son comandos cuyo principal propósito es la obtención, el procesamiento, el control y la presentación de información. Proporcionan los conocimientos indispensables para usar eficientemente el sistema operativo y son una herramienta básica para realizar scripts de programación en Shell.
-- Telnet
+- **Telnet**
 permite a un usuario remoto tener acceso para probar la conectividad con equipos remotos y emitir comandos a través de un teclado
-- curl
+- **curl**
  permite enviar una petición HTTP a una URL y recibir el resultado. 
-- tree
+- **tree**
 Muestra la estructura de directorios de una ruta de acceso o del disco en una unidad gráficamente.
 ## MySQL Workbench
 es un entorno de MySQL gráfico de diseño de bases de datos, servidores, administración y mantenimiento para el sistema MySQL. 
