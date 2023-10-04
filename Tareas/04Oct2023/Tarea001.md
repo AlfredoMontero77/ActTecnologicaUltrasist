@@ -37,4 +37,6 @@ permite a un usuario remoto tener acceso para probar la conectividad con equipos
 - curl
  permite enviar una petición HTTP a una URL y recibir el resultado. 
 - tree
+Muestra la estructura de directorios de una ruta de acceso o del disco en una unidad gráficamente.
 ## MySQL Workbench
+es un entorno de MySQL gráfico de diseño de bases de datos, servidores, administración y mantenimiento para el sistema MySQL. 
