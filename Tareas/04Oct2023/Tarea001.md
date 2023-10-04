@@ -1,7 +1,7 @@
 ## zsh-shell
-Es un potente intérprete de comandos para sistemas operativos de tipo Unix, como por ejemplo los BSD o GNU/Linux.
+> Es un potente intérprete de comandos para sistemas operativos de tipo Unix, como por ejemplo los BSD o GNU/Linux.
 ## git
-Es un sistema de control de versiones distribuido
+> Es un sistema de control de versiones distribuido
 ## oh-myzsh, 
 Es un paquete de utilidades, plugins y plantillas para el shell ZSH
 ### agnoster
