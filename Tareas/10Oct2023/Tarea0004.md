@@ -19,3 +19,16 @@
 - Sprint Backlog 
 - El Incremento.
 - Impediment Log
+
+1. Historias de usuario
+2. Release Schedule Plan (RSP)
+3. Notas de retroepectiva
+4. Calculos de planeacion
+5. Casos de uso
+6. Maqueta de Sistema (Mock, WireFrame)
+7. MAtriz de pruebas, datos de prueba y evidencias de ejecucion
+8. Grafica de Burndown
+9. Actas de ceromonias (menos standup) *Minutas*
+10. Evidencia de las pruebas de stres
+11. Esquema de base de datos y diagramas de E/R
+12. Diagramas de diseño
