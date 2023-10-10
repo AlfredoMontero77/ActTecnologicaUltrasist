@@ -9,7 +9,7 @@
 > Es el grupo de personas que tienen los conocimientos técnicos necesarios para desarrollar un proyecto de forma conjunta. 
 ## Ceremonias de SCRUM
 1. El Sprint Planning al comienzo del Sprint
-2. Daily Scrums a diario
+2. Daily Scrums a diario, para ver que hice ayer que hare hoy y que impedimentos tengo para hacerlos
 3. Un Sprint Review al final del Sprint para inspeccionar el incremento realizado.
 4. Retrospectiva para inspeccionar el equipo y levantar mejoras que se apliquen en el siguiente Sprint.
 5. Adicionalmente se ha incorporado también una reunión de Grooming o Refinement, que sirve para, dentro del Sprint, afinar y aclarar ciertas historias de usuario que pudieron quedar pendientes durante el Sprint Planning.
@@ -18,3 +18,4 @@
 - Product Backlog, 
 - Sprint Backlog 
 - El Incremento.
+- Impediment Log
