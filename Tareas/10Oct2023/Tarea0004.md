@@ -20,6 +20,7 @@
 - El Incremento.
 - Impediment Log
 
+#### Expuestos
 1. Historias de usuario
 2. Release Schedule Plan (RSP)
 3. Notas de retroepectiva
