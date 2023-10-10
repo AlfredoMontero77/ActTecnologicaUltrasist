@@ -7,4 +7,14 @@
 > Se encarga de gestionar y asegurar que el proceso Scrum se lleva a cabo correctamente, así como de facilitar la ejecución del proceso y sus mecánicas.Es la persona que mantiene en movimiento al equipo de trabajo. Gestiona los impedimentos, alerta los riesgos, trata de mitigar los mismos e impulsa a cada miembro a buscar soluciones ante cualquier obstáculo.
 - Scrum Team
 > Es el grupo de personas que tienen los conocimientos técnicos necesarios para desarrollar un proyecto de forma conjunta. 
-## Ceremonias y artefactos de SCRUM
+## Ceremonias de SCRUM
+1. El Sprint Planning al comienzo del Sprint
+2. Daily Scrums a diario
+3. Un Sprint Review al final del Sprint para inspeccionar el incremento realizado.
+4. Retrospectiva para inspeccionar el equipo y levantar mejoras que se apliquen en el siguiente Sprint.
+5. Adicionalmente se ha incorporado también una reunión de Grooming o Refinement, que sirve para, dentro del Sprint, afinar y aclarar ciertas historias de usuario que pudieron quedar pendientes durante el Sprint Planning.
+
+## Artefactos de SCRUM
+- Product Backlog, 
+- Sprint Backlog 
+- El Incremento.
